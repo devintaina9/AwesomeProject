@@ -81,14 +81,14 @@ function App(): React.JSX.Element {
           <Section title="Name">
             Devinta Cahaya Putri
           </Section>
-          <Section title="ID">
+          <Section title="NIM">
             22/506129/SV/22075
           </Section>
           <Section title="Class">
             B
           </Section>
           <Section title="Social media link :">
-            Found me here!
+          Here are some of the tuatans that can be contacted
           </Section>
           <LearnMoreLinks />
         </View>
