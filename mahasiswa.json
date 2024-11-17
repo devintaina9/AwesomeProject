@@ -1,0 +1,28 @@
+{
+  "mahasiswa": [
+    {
+      "id": "5225",
+      "first_name": "hai",
+      "last_name": "oke",
+      "email": "male@gmail.com",
+      "class": "b",
+      "gender": "male"
+    },
+    {
+      "id": "f81c",
+      "first_name": "Devinta",
+      "last_name": "Cahaya Putri",
+      "email": "devinta9@gmail.com",
+      "class": "B",
+      "gender": "Female"
+    },
+    {
+      "id": "8df3",
+      "first_name": "arsyila",
+      "last_name": "sabrina",
+      "email": "arsyila8@gmail.com",
+      "class": "A",
+      "gender": "Female"
+    }
+  ]
+}
