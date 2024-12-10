@@ -2,7 +2,7 @@
   "mahasiswa": [
     {
       "id": "5225",
-      "first_name": "hai",
+      "first_name": "ha",
       "last_name": "oke",
       "email": "male@gmail.com",
       "class": "b",
@@ -13,16 +13,24 @@
       "first_name": "Devinta",
       "last_name": "Cahaya Putri",
       "email": "devinta9@gmail.com",
-      "class": "B",
+      "class": "A",
       "gender": "Female"
     },
     {
-      "id": "8df3",
-      "first_name": "arsyila",
-      "last_name": "sabrina",
-      "email": "arsyila8@gmail.com",
-      "class": "A",
-      "gender": "Female"
+      "id": "acb6",
+      "first_name": "Te",
+      "last_name": "T",
+      "email": "Dfuubc",
+      "class": "B",
+      "gender": "Male"
+    },
+    {
+      "id": "006e",
+      "first_name": "oma",
+      "last_name": "farel",
+      "email": "bchfgvbh@gmail.con",
+      "class": "an",
+      "gender": "p"
     }
   ]
 }
